@@ -18,15 +18,6 @@ The application uses a Weather API to fetch real-time weather data based on user
 - JavaScript
 - OpenWeatherMap API
 
-## 📁 Project Structure
-
-weather-app/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 ## ▶️ How to Run
 
 1. Clone this repository
@@ -38,6 +29,7 @@ weather-app/
 OpenWeatherMap API
 
 ## 🌍 Live Demo
+: 
 
 Get in touch : 
 Email : gartiaashmit14@gamil.com
