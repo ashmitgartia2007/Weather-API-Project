@@ -29,7 +29,7 @@ The application uses a Weather API to fetch real-time weather data based on user
 OpenWeatherMap API
 
 ## 🌍 Live Demo
-: 
+: https://waether-api-project.vercel.app/
 
 Get in touch : 
 Email : gartiaashmit14@gamil.com
